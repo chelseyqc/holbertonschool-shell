@@ -20,3 +20,6 @@
 
 
 [7-movethatfile](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/7-movethatfile) - A script that moves the file betty to /tmp/my_first_directory
+
+
+[8-firstdelete](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/8-firstdelete) - A script that deletes the file betty from /tmp/my_first_directory
