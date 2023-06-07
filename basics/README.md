@@ -11,3 +11,6 @@
 
 
 [4-listmorefiles](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/4-listmorefiles) - A script that displays current directory contents including hidden files in the long format
+
+
+[5-listfilesdigitonly](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/5-listfilesdigitonly) - A script that displayes current directory contents in long format, with user and group IDs displayed numerically and hidden files
