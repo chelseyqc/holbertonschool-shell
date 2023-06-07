@@ -8,3 +8,6 @@
 
 
 [3-listfiles](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/3-listfiles) - A script that displays current directory contents in a long format
+
+
+[4-listmorefiles](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/4-listmorefiles) - A script that displays current directory contents including hidden files in the long format
