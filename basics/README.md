@@ -29,3 +29,6 @@ Descriptions of what each script is doing
 
 
 [9-firstdirdeletion](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/9-firstdirdeletion) - A script that deletes the directory my_first_directory in the /tmp directory
+
+
+[10-back](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/10-back) - A script that changes the working directory to the previous one
