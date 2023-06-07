@@ -38,3 +38,6 @@ Descriptions of what each script is doing
 
 
 [12-file_type](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/12-file_type) - A script that prints the type of file named iamafile in the /tmp directory
+
+
+[13-symbolic_link](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/13-symbolic_link) - A script that creates a symbolic link to /bin/ls named __ls__ in the current working directory
