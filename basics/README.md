@@ -50,3 +50,6 @@ Descriptions of what each script is doing
 
 
 [16-clean_emacs](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/16-clean_emacs) - A script that deletes all files in the current working directory that end with the character ~
+
+
+[17-tree](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/17-tree) - A script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory only using two spaces (and lines) in the script
