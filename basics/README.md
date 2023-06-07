@@ -32,3 +32,6 @@ Descriptions of what each script is doing
 
 
 [10-back](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/10-back) - A script that changes the working directory to the previous one
+
+
+[11-lists](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/11-lists) - A script that lists all files, including hidden files, in the current directory, the parent of the working directory and the /boot directory (in this order), in long format
