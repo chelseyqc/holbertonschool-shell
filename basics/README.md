@@ -14,3 +14,6 @@
 
 
 [5-listfilesdigitonly](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/5-listfilesdigitonly) - A script that displayes current directory contents in long format, with user and group IDs displayed numerically and hidden files
+
+
+[6-firstdirectory](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/6-firstdirectory) - A script that creates a directory named my_first_directory in the /tmp/ directory
