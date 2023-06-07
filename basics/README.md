@@ -1,3 +1,6 @@
+Descriptions of what each script is doing
+
+
 [0-current_working_directory](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/0-current_working_directory) - A script that prints the absolute path name of the current working directory
 
 
@@ -23,3 +26,6 @@
 
 
 [8-firstdelete](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/8-firstdelete) - A script that deletes the file betty from /tmp/my_first_directory
+
+
+[9-firstdirdeletion](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/9-firstdirdeletion) - A script that deletes the directory my_first_directory in the /tmp directory
