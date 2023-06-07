@@ -41,3 +41,6 @@ Descriptions of what each script is doing
 
 
 [13-symbolic_link](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/13-symbolic_link) - A script that creates a symbolic link to /bin/ls named __ls__ in the current working directory
+
+
+[14-copy_html](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/14-copy_html) - A script that copies all the HTML files from the working directory to the parent of the working directory but only if the files did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
