@@ -35,3 +35,6 @@ Descriptions of what each script is doing
 
 
 [11-lists](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/11-lists) - A script that lists all files, including hidden files, in the current directory, the parent of the working directory and the /boot directory (in this order), in long format
+
+
+[12-file_type](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/12-file_type) - A script that prints the type of file named iamafile in the /tmp directory
