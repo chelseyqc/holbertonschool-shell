@@ -47,3 +47,6 @@ Descriptions of what each script is doing
 
 
 [15-lets_move](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/15-lets_move) - A script that moves all files beginning with an uppercase letter to the directory /tmp/u
+
+
+[16-clean_emacs](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/16-clean_emacs) - A script that deletes all files in the current working directory that end with the character ~
