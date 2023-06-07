@@ -17,3 +17,6 @@
 
 
 [6-firstdirectory](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/6-firstdirectory) - A script that creates a directory named my_first_directory in the /tmp/ directory
+
+
+[7-movethatfile](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/7-movethatfile) - A script that moves the file betty to /tmp/my_first_directory
