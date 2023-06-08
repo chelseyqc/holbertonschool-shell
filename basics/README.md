@@ -1,4 +1,4 @@
-Descriptions of what each script is doing
+#Script descriptions
 
 
 [0-current_working_directory](https://github.com/chelseyqc/holbertonschool-shell/blob/master/basics/0-current_working_directory) - A script that prints the absolute path name of the current working directory
