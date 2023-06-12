@@ -48,3 +48,6 @@
 
 
 [15-symbolic_link_permissions](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/15-symbolic_link_permissions) - A script that changes the owner and the group owner of _hello to vincent and staff respectively
+
+
+[16-if_only](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/16-if_only) - A script that changes the owner of the file hello to vincent only if it is owned by the user guillaume
