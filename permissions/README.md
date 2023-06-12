@@ -42,3 +42,6 @@
 
 
 [13-change_group](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/13-change_group) - A script that changes the group owner to school for the file hello
+
+
+[14-change_owner_and_group](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/14-change_owner_and_group) - A script that changes the owner to vincent and the group owner to staff for all files and directories in the working directory
