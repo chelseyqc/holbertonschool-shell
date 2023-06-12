@@ -18,3 +18,6 @@
 
 
 [6-multiple_permissions](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/6-multiple_permissions) - A script that adds execute permission to the owner and group owner, and read permission to the other users, to the file hello
+
+
+[7-everybody](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/0-iam_betty) - A script that adds execution permission to the owner, the group owner and the other users, to the file hello
