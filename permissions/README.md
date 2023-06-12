@@ -45,3 +45,6 @@
 
 
 [14-change_owner_and_group](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/14-change_owner_and_group) - A script that changes the owner to vincent and the group owner to staff for all files and directories in the working directory
+
+
+[15-symbolic_link_permissions](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/15-symbolic_link_permissions) - A script that changes the owner and the group owner of _hello to vincent and staff respectively
