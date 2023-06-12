@@ -21,3 +21,9 @@
 
 
 [7-everybody](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/0-iam_betty) - A script that adds execution permission to the owner, the group owner and the other users, to the file hello
+
+
+[8-James_Bond](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/8-James_Bond) - A script that sets up permissions to the file as follows:
+- Owner: no permission at all
+- Group: no permission at all
+- Other users: all the permissions
