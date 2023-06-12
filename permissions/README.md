@@ -33,3 +33,6 @@
 
 
 [10-mirror_permissions](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/10-mirror_permissions) - A script that sets the mode of the file hello the same as olleh's mode
+
+
+[11-directories_permissions](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/11-directories_permissions) - A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner, and all other users
