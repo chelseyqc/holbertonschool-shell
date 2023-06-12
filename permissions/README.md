@@ -30,3 +30,6 @@
 
 
 [9-John_Doe](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/9-John_Doe) - A script that sets the mode of the file hello to -rwx r-x -wx
+
+
+[10-mirror_permissions](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/10-mirror_permissions) - A script that sets the mode of the file hello the same as olleh's mode
