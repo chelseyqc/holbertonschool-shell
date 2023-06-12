@@ -15,3 +15,6 @@
 
 
 [5-execute](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/5-execute) - A script that adds execute permission to the owner of the file hello
+
+
+[6-multiple_permissions](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/6-multiple_permissions) - A script that adds execute permission to the owner and group owner, and read permission to the other users, to the file hello
