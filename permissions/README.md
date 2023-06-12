@@ -9,3 +9,6 @@
 
 
 [3-new_owner](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/3-new_owner) - A script that changes the owner of the file hello to the user betty
+
+
+[4-empty](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/4-empty) - A script that creates an empty file called hello
