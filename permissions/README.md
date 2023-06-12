@@ -39,3 +39,6 @@
 
 
 [12-directory_permissions](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/12-directory_permissions) - A script that creates a directory called my_dir with permissions 751 in the working directory
+
+
+[13-change_group](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/13-change_group) - A script that changes the group owner to school for the file hello
