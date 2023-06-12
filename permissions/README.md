@@ -3,3 +3,6 @@
 
 
 [1-who_am_i](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/1-who_am_i) - A script that prints the effective username of the current user
+
+
+[2-groups](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/2-groups) - A script that prints all the groups the current user is part of
