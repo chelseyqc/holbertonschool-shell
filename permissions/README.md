@@ -27,3 +27,6 @@
 - Owner: no permission at all
 - Group: no permission at all
 - Other users: all the permissions
+
+
+[9-John_Doe](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/9-John_Doe) - A script that sets the mode of the file hello to -rwx r-x -wx
