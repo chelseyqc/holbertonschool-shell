@@ -12,3 +12,6 @@
 
 
 [4-empty](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/4-empty) - A script that creates an empty file called hello
+
+
+[5-execute](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/5-execute) - A script that adds execute permission to the owner of the file hello
