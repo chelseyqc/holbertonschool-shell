@@ -20,4 +20,7 @@
 [6-thirdline](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/6-thirdline) - A script that displays the third line of the file iacta
 
 
-[7-file](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/7-file) - A shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
+[7-file](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/7-file) - A shell script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text Best School ending by a new line
+
+
+[8-cwd_state](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/8-cwd_state) - A script that writes in to the file ls_cwd_content the result of the command ls -la, if the file already exists, it'll be overwritten, if it doesn't exist, create it
