@@ -24,3 +24,6 @@
 
 
 [8-cwd_state](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/8-cwd_state) - A script that writes in to the file ls_cwd_content the result of the command ls -la, if the file already exists, it'll be overwritten, if it doesn't exist, create it
+
+
+[9-duplicate_last_line](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/9-duplicate_last_line) - A script that duplicates the last line of the file iacta
