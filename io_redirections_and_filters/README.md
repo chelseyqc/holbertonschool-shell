@@ -54,3 +54,6 @@
 
 
 [18-letteronly](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/18-letteronly) - A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter including captial letters
+
+
+[19-AZ](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/19-AZ) - A script that replaces all characters A and c from input to Z and e respectively
