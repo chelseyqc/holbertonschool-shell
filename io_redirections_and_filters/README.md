@@ -48,3 +48,6 @@
 
 
 [16-whatsnext](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/16-whatsnext) - A script that displays the lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
+
+
+[17-hidethisword](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/17-hidethisword) - A script that displays all the lines in the file /etc/passwd that do not contain the pattern "bin"
