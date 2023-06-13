@@ -6,3 +6,6 @@
 
 
 [2-hellofile](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/2-hellofile) - A script that displays the content of the /etc/passwd file
+
+
+[3-twofiles](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/3-twofiles) - A script that displays the content of /etc/passwd and /etc/hosts
