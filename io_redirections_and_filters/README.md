@@ -18,3 +18,6 @@
 
 
 [6-thirdline](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/6-thirdline) - A script that displays the third line of the file iacta
+
+
+[7-file](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/7-file) - A shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
