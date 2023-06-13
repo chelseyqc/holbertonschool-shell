@@ -33,3 +33,6 @@
 
 
 [11-directories](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/11-directories) - A script that counts the number of directories and sub-directories in the current directory. Does not take into account current and parent directories, but hidden directories are counted
+
+
+[12-newest_files](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/12-newest_files) - A script that displays the 10 newest files in the current directory sorted by newest to oldest
