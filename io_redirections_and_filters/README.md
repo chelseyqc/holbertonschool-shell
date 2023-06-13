@@ -39,3 +39,6 @@
 
 
 [13-unique](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/13-unique) - A script that takes a list of words as input and prints only words that appear exactly once. Words should be sorted
+
+
+[14-findthatword](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/14-findthatword) - A script that displays lines containing the pattern "root" from the file /etc/passwd
