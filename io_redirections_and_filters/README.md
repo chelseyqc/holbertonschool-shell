@@ -44,4 +44,4 @@
 [14-findthatword](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/14-findthatword) - A script that displays lines containing the pattern "root" from the file /etc/passwd
 
 
-[15-countthatword](https://github.com/chelseyqc/holbertonschool-shell/blob/master/permissions/15-countthatword) - A script that displays the number of lines that contain the pattern "bin" in the file /etc/passwd
+[15-countthatword](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirection_and_filters/15-countthatword) - A script that displays the number of lines that contain the pattern "bin" in the file /etc/passwd
