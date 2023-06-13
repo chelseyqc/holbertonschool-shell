@@ -63,3 +63,6 @@
 
 
 [21-reverse](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/21-reverse) - A script that reverses its input
+
+
+[22-users_and_home](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/22-users_and_homes) - A script that displays all users and their home directories, sorted by users
