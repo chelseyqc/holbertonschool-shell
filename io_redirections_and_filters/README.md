@@ -15,3 +15,6 @@
 
 
 [5-firstlines](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/5-firstlines) - A script that displays the first 10 lines of /etc/passwd
+
+
+[6-thirdline](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/6-thirdline) - A script that displays the third line of the file iacta
