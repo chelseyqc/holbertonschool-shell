@@ -12,3 +12,6 @@
 
 
 [4-lastlines](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/4-lastlines) - A script that displays the last 10 lines of /etc/passwd
+
+
+[5-firstlines](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/5-firstlines) - A script that displays the first 10 lines of /etc/passwd
