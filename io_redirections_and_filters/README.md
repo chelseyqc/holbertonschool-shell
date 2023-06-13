@@ -36,3 +36,6 @@
 
 
 [12-newest_files](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/12-newest_files) - A script that displays the 10 newest files in the current directory sorted by newest to oldest
+
+
+[13-unique](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/13-unique) - A script that takes a list of words as input and prints only words that appear exactly once. Words should be sorted
