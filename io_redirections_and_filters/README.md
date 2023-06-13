@@ -9,3 +9,6 @@
 
 
 [3-twofiles](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/3-twofiles) - A script that displays the content of /etc/passwd and /etc/hosts
+
+
+[4-lastlines](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/4-lastlines) - A script that displays the last 10 lines of /etc/passwd
