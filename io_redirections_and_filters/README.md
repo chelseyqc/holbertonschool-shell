@@ -30,3 +30,6 @@
 
 
 [10-no_more_js](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/10-no_more_js) - A script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
+
+
+[11-directories](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/11-directories) - A script that counts the number of directories and sub-directories in the current directory. Does not take into account current and parent directories, but hidden directories are counted
