@@ -51,3 +51,6 @@
 
 
 [17-hidethisword](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/17-hidethisword) - A script that displays all the lines in the file /etc/passwd that do not contain the pattern "bin"
+
+
+[18-letteronly](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/18-letteronly) - A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter including captial letters
