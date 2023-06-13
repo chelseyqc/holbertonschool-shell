@@ -45,3 +45,6 @@
 
 
 [15-countthatword](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirection_and_filters/15-countthatword) - A script that displays the number of lines that contain the pattern "bin" in the file /etc/passwd
+
+
+[16-whatsnext](https://github.com/chelseyqc/holbertonschool-shell/blob/master/io_redirections_and_filters/16-whatsnext) - A script that displays the lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
