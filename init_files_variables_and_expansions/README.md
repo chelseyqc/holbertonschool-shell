@@ -43,3 +43,6 @@
 - The output should be alpha ordered, starting with aa
 - Do not print oo
 - Your script file should contain maximum 64 characters
+
+
+[13-print_float](https://github.com/chelseyqc/holbertonschool-shell/tree/master/init_files_variables_and_expansions/13-print_float) - A script that prints a number with two decimal places
