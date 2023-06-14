@@ -31,4 +31,7 @@
 [9-divide_and_rule](https://github.com/aliciastudies/holbertonschool-shell/tree/master/init_files_variables_and_expansions/9-divide_and_rule) - A script that prints the result of POWER divided by DIVIDE, followed by a new line
 
 
-[10-love_exponent_breath](https://github.com/aliciastudies/holbertonschool-shell/tree/master/init_files_variables_and_expansions/10-love_exponent_breath) -A script that displays the reuslt of BREATH to the power LOVE
+[10-love_exponent_breath](https://github.com/aliciastudies/holbertonschool-shell/tree/master/init_files_variables_and_expansions/10-love_exponent_breath) - A script that displays the result of BREATH to the power LOVE
+
+
+[11-binary_to_decimal](https://github.com/aliciastudies/holbertonschool-shell/tree/master/init_files_variables_and_expansions/11-binary_to_decimal) - A script that converts a number from base 2 to base 10
