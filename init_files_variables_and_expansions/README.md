@@ -26,3 +26,6 @@
 
 
 [8-true_knowledge](https://github.com/aliciastudies/holbertonschool-shell/tree/master/init_files_variables_and_expansions/8-true_knowledge) - A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
+
+
+[9-divide_and_rule](https://github.com/aliciastudies/holbertonschool-shell/tree/master/init_files_variables_and_expansions/9-divide_and_rule) - A script that prints the result of POWER divided by DIVIDE, followed by a new line
