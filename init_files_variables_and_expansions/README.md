@@ -14,3 +14,6 @@
 
 
 [4-global_variables](https://github.com/chelseyqc/holbertonschool-shell/blob/master/init_files_variables_and_expansions/4-global_variables) - A script that lists the environment variables
+
+
+[5-local_variables](https://github.com/chelseyqc/holbertonschool-shell/blob/master/init_files_variables_and_expansions/5-local_variables) - A script that lists all local variables and environment variables, and functions
