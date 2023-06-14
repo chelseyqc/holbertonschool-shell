@@ -35,3 +35,11 @@
 
 
 [11-binary_to_decimal](https://github.com/aliciastudies/holbertonschool-shell/tree/master/init_files_variables_and_expansions/11-binary_to_decimal) - A script that converts a number from base 2 to base 10
+
+
+[12-combinations](https://github.com/chelseyqc/holbertonschool-shell/tree/master/init_files_variables_and_expansions/12-combinations) - A script that prints all possible combinations of two letters, except oo
+- Letters are lwoer cases, from a to z
+- One combination per line
+- The output should be alpha ordered, starting with aa
+- Do not print oo
+- Your script file should contain maximum 64 characters
