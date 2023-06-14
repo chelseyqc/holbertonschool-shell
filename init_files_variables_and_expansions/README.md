@@ -8,3 +8,6 @@
 
 
 [2-path](https://github.com/chelseyqc/holbertonschool-shell/blob/master/init_files_variables_and_expansions/2-path) - A script that adds /action to the PATH
+
+
+[3-paths](https://github.com/chelseyqc/holbertonschool-shell/blob/master/init_files_variables_and_expansions/3-paths) - A script that counts the number of directories in the PATH
