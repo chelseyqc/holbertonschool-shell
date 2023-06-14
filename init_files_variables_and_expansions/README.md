@@ -11,3 +11,6 @@
 
 
 [3-paths](https://github.com/chelseyqc/holbertonschool-shell/blob/master/init_files_variables_and_expansions/3-paths) - A script that counts the number of directories in the PATH
+
+
+[4-global_variables](https://github.com/chelseyqc/holbertonschool-shell/blob/master/init_files_variables_and_expansions/4-global_variables) - A script that lists the environment variables
