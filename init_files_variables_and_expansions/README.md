@@ -20,3 +20,6 @@
 
 
 [6-create_local_variable](https://github.com/chelseyqc/holbertonschool-shell/blob/master/init_files_variables_and_expansions/6-create_local_variable) - A script that creates a new local variable
+
+
+[7-create_global_variable](https://github.com/chelseyqc/holbertonschool-shell/blob/master/init_files_variables_and_expansions/7-create_global_variable) - A script that creates a new global variable
