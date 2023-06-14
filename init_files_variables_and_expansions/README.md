@@ -46,3 +46,8 @@
 
 
 [13-print_float](https://github.com/chelseyqc/holbertonschool-shell/tree/master/init_files_variables_and_expansions/13-print_float) - A script that prints a number with two decimal places
+
+
+[14-decimal_to_hexadecimal](https://github.com/chelseyqc/holbertonschool-shell/tree/master/init_files_variables_and_expansions/14-decimal_to_hexadecimal) - A script that converts a number from base 10 to base 16
+- The number in base 10 is stored in the environment variable DECIMAL
+- The script should display the number in the base 16
